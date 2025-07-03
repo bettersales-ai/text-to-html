@@ -1,0 +1,12 @@
+[project]
+name = "text-to-html"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cloudscraper>=1.2.71",
+    "modal>=1.0.5",
+    "torch>=2.7.1",
+    "transformers>=4.53.0",
+]
